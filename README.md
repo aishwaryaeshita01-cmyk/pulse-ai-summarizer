@@ -1,6 +1,6 @@
 # Pulse AI — Resilient Audio Intelligence & Structured Summarization Pipeline
 
-**Live App:** [Pulse AI Studio on Vercel](https://YOUR_VERCEL_URL.vercel.app)  
+**Live App:** [Pulse AI Studio on Vercel](https://pulse-ai-summarizer-hvl4ien3v-aishwaryaeshita01-cmyk.vercel.app/)  
 **API Docs (Swagger):** [FastAPI Swagger UI on Render](https://onrender.com)
 
 An enterprise-grade, full-stack Generative AI platform that transcribes long-form audio and generates strictly validated, structured executive intelligence briefs. Built with **FastAPI**, **Next.js (TypeScript)**, **Groq Cloud LPU Inference**, **Pydantic**, and **Docker**.
